@@ -1,0 +1,1 @@
+TExt1 file inside dir3
